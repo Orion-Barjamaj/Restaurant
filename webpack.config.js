@@ -8,6 +8,7 @@ module.exports = {
       title: 'FlavorFusion Express',
     }),
   ],
+  mode: 'development',
   output: {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'dist'),
